@@ -11,7 +11,33 @@ A streamlined plugin offering a complete set of Blueprint-callable trace and swe
 3. Locate the **Trace Function Library** and enable it.
 4. Restart the editor to finalize activation.
 
+
 ---
+
+## 🚀 How To Use
+
+Using the Trace Function Library is simple and modular. All functions are **Blueprint-callable** and grouped under the category:
+
+> **Trace Function Library**
+
+### ✅ Quick Start (Blueprint)
+
+1. Open any Blueprint (e.g., a character, controller, or utility BP).
+2. Right-click in the graph and search for any trace function.
+3. Look under the **Trace Function Library** category in the context menu.
+
+![image](https://github.com/user-attachments/assets/99a18482-0987-4541-aa11-61e54e878f8e)
+
+5. Connect your desired input parameters (e.g., controller, trace distance, shape, etc.).
+6. Toggle `bDrawDebug` to visualize the trace results during gameplay.
+
+### 🧩 Example Usage
+
+Below is a basic Blueprint setup for `TraceFromCameraByType`:
+
+<!-- 📸 Insert Blueprint node screenshot here -->
+
+
 
 ## 📚 Function Overview
 
