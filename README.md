@@ -31,14 +31,6 @@ Using the Trace Function Library is simple and modular. All functions are **Blue
 5. Connect your desired input parameters (e.g., controller, trace distance, shape, etc.).
 6. Toggle `bDrawDebug` to visualize the trace results during gameplay.
 
-### 🧩 Example Usage
-
-Below is a basic Blueprint setup for `TraceFromCameraByType`:
-
-<!-- 📸 Insert Blueprint node screenshot here -->
-
-
-
 ## 📚 Function Overview
 
 | **Function**                    | **Description**                                                                 |
@@ -95,5 +87,5 @@ Tested and verified in:
 
 * Unreal Engine 5.3
 * Unreal Engine 5.4
-
-Let me know if you’d like this doc styled in Markdown for GitHub Pages or exported as a PDF for Fab submissions.
+* Unreal Engine 5.5
+* Unreal Engine 5.6
